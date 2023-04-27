@@ -1,14 +1,7 @@
+# Milosz Sultanowski
 
-
-<div>
-    <img style="vertical-align:middle" width="20%" height="20%" src="images/cv_photo.jpg">
-    <span style=
-        "position:sticky;
-        left:40%;">
-        <font size="7"><b> Milosz Sultanowski</font></b></span>
-    <div>
-    </div>
-
+<div align="center">
+    <img style="vertical-align:middle" width="30%" height="30%" src="images/cv_photo.jpg">
 </div>
 
 ## Contact
