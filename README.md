@@ -56,6 +56,7 @@ Linux :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:
 Bash :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
 c :black_circle: :black_circle: :black_circle: :white_circle: :white_circle:  
 Python :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:  
+SQL :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:  
 Java :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:  
 
 ## Languages
