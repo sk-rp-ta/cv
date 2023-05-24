@@ -10,6 +10,7 @@ e-mail: milosz.sultanowski@gmail.com
 Linkedin: https://www.linkedin.com/in/mi%C5%82osz-su%C5%82tanowski-5aaaa3200/  
 Github: https://github.com/sk-rp-ta  
 Codewars: https://www.codewars.com/users/sk-rp-ta  
+Leetcode: https://leetcode.com/sk-rp-ta/  
 
 ## About me
 
