@@ -49,15 +49,17 @@ Grade 4.5
 
 ## Skills
 
-c++ :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
-GTest :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
-Git :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
-Linux :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
-Bash :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:  
-c :black_circle: :black_circle: :black_circle: :white_circle: :white_circle:  
-Python :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:  
-SQL :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:  
-Java :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:  
+|       | Basic          | Junior         | Regular        | Advanced       | Master         |
+|-------|----------------|----------------|----------------|----------------|----------------|
+| c++   | :black_circle: | :black_circle: | :black_circle: | :black_circle: | :white_circle: |
+| GTest | :black_circle: | :black_circle: | :black_circle: | :black_circle: | :white_circle: |
+| Git   | :black_circle: | :black_circle: | :black_circle: | :black_circle: | :white_circle: |
+| Linux | :black_circle: | :black_circle: | :black_circle: | :black_circle: | :white_circle: |
+| Bash  | :black_circle: | :black_circle: | :black_circle: | :black_circle: | :white_circle: |
+| c     | :black_circle: | :black_circle: | :black_circle: | :white_circle: | :white_circle: |
+| Python| :black_circle: | :black_circle: | :white_circle: | :white_circle: | :white_circle: |
+| SQL   | :black_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |
+| Java  | :black_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |
 
 ## Languages
 English C1  
